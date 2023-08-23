@@ -1,0 +1,235 @@
+html {
+    border: 3px solid #c84545;
+}
+
+.Topo {
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 100px;
+    display: flex;
+}
+
+.passage {
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #7d3c3b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: black solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.passage:hover {
+    background-color: black;
+    animation-delay: 0.5s;
+    color: white;
+}
+
+.Logo {
+   color: 620404;
+   font-size: 25px;
+   border: black solid;
+   border-radius: 10px;
+   padding: 5px;
+   user-select: none;
+   margin-left: 100px;
+
+}
+
+.woman {
+    margin-left: 460px;
+}
+
+.lema {
+    margin-left: 545px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #620404;
+}
+
+h3 {
+    margin-left: 430px;
+    font-size: 30px;
+    color: rgb(74, 153, 156);
+}
+
+table, th, td {
+    border: black 1px solid;
+    height: 50px;
+    width: 500px;
+    margin-left: 490px;
+    padding: 3px;
+}
+
+
+caption {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: #7d3c3b;
+    border: black solid 1px;
+
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #7d3c3b;
+    margin-left: 50px;
+}
+
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    margin-left: 50px;
+}
+
+.ilustração {
+    margin-left: 440px;
+}
+
+.description {
+    margin-left: 440px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.Transição {
+    margin-left: 550px;
+    font-size: 25px;
+}
+
+strong {
+    color: #7d3c3b;
+}
+
+.return {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 700px;
+    text-decoration: none;
+    border: black 1px solid;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.return:hover {
+    color: yellow;
+}
+
+.Goal {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 600px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.dados {
+    display: flex;
+    align-items: center;
+}
+
+.explaining {
+    text-transform: uppercase;
+    font-family:'Courier New', Courier, monospace ;
+    margin-left: 50px;
+    font-size: 17px;
+}
+
+.maneira {
+    font-size: 20px;
+    margin-left: 670px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.complicação {
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.teste {
+    background-color: pink;
+    border: 3px black solid;
+}
+
+
+iframe {
+    margin-left: 475px;
+}
+
+.seeing {
+    margin-left: 330px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    border: black solid 3px;
+}
+
+.title {
+    margin-left: 5px;
+    font-size: 20px;
+}
+.saibamais {
+    margin-left: 25px;
+    border: black 3px solid;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.saibamais:hover {
+    text-decoration: underline white;
+    color: yellow;
+}
+
+.idea {
+    margin-top: 10px;
+}
+
+.comunidade {
+    margin-top: 20px;
+    margin-right: 40px;
+}
+
+.judicial {
+    margin-top: 20px;
+}
+
+.psicológica {
+    margin-top: 20px;
+}
+
+.maleta {
+    margin-top: 20px;   
+}
+
+.repercussão {
+    text-transform: uppercase;
+    color: black;
+    font-size: 25px;
+    margin-left: 370px;
+}
+
+.happiness {
+    height: 700px;
+    width: 100%;
+}
+
+.Finale {
+    margin-left: 670px;
+    font-size: 50px;
+    color: blue;
+}
+
+video {
+    margin-left: 500px;
+}
